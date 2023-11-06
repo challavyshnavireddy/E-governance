@@ -1,0 +1,33 @@
+{
+  "student": [],
+  "entrepreneur": [],
+  "investor": [
+    {
+      "FirstName": "Vyshnavi",
+      "LastName": "Reddy",
+      "email": "chvry03@gmail.com",
+      "MobileNumber": "+917729052447",
+      "AadharNumber": "12345678",
+      "OrganizationName": "sadfgh",
+      "id": 1
+    },
+    {
+      "FirstName": "Vyshnavi",
+      "LastName": "Reddy",
+      "email": "chvry03@gmail.com",
+      "MobileNumber": "+917729052447",
+      "AadharNumber": "566512",
+      "OrganizationName": "fghb",
+      "id": 2
+    },
+    {
+      "FirstName": "Vyshnavi",
+      "LastName": "Reddy",
+      "email": "chvry03@gmail.com",
+      "MobileNumber": "+917729052447",
+      "AadharNumber": "566512",
+      "OrganizationName": "fghb",
+      "id": 3
+    }
+  ]
+}
